@@ -16,9 +16,7 @@
     📫 How to reach me <a href="mailto:alex.lazellari@gmail.com">alex.lazellari12@gmail.com</a>
   </li>
 </ul>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexlazellari&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="alexlazellari">
-</p>
+<br>
 <br>
 <h3 align="left">⚒️ Languages and Tools ⚒️</h3>
 <div align="center">
@@ -31,6 +29,7 @@
 <h3>⚡ Statistics ⚡</h3>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari" alt="alexlazellari">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexlazellari&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="alexlazellari">
 </div>
 <br>
 <h3 align="left">Connect with me:</h3>

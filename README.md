@@ -19,7 +19,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexlazellari&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="alexlazellari">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚒️ Languages and Tools ⚒️</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,github,python,javascript,java"/><br>
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h3>Stats</h3>
+<h3>⚡ Stats ⚡</h3>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari" alt="alexlazellari">
 </div>

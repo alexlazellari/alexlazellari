@@ -7,10 +7,10 @@
 <img align='right' alt='Coding' width='300' src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <ul>
   <li>
-    🔭 I’m currently working on [Digital Accessibility Compliance](https://www.strath.ac.uk/)
+    🔭 I’m currently working on <a href="https://www.strath.ac.uk/">Digital Accessibility Compliance</a>
   </li>
   <li>
-    💬 Ask me about **Web development**
+    💬 Ask me about <strong>Web development</strong>
   </li>
   <li>
     📫 How to reach me <a href="mailto:alex.lazellari@gmail.com">alex.lazellari12@gmail.com</a>

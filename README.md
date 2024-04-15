@@ -2,9 +2,15 @@
 <h2 align="left">A passionate full stack developer</h2>
 <img align='right' alt='Coding' width='300' src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <ul>
-  <li> 🔭 I’m currently working on [Digital Accessibility Compliance](https://www.strath.ac.uk/) </li>
-  <li> 💬 Ask me about **Web development** </li>
-  <li> 📫 How to reach me **alex.lazellari12@gmail.com** </li>
+  <li>
+    🔭 I’m currently working on [Digital Accessibility Compliance](https://www.strath.ac.uk/)
+  </li>
+  <li>
+    💬 Ask me about **Web development**
+  </li>
+  <li>
+    📫 How to reach me **alex.lazellari12@gmail.com**
+  </li>
 </ul>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexlazellari&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="alexlazellari">
@@ -84,15 +90,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
   </a>
 </p>
-<div>
-  <p>
-    <img align='left' src="https://github-readme-stats.vercel.app/api?username=alexlazellari&amp;show_icons=true&amp;locale=en" alt="alexlazellari">
-  </p>
-  <p>
-    <img align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari&amp;" alt="alexlazellari">
-  </p>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari" alt="alexlazellari">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexlazellari&show_icons=true&locale=en" alt="alexlazellari" >
 </div>
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-lazellari/" target="blank">

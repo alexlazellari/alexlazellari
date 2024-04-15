@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Robot&size=35&center=true&vCenter=true&width500&height=70&duration=4000&lines=Hi+👋,;+I'm+Alex+Lazellari;" />
 </h1>
-<h2 align="left">A passionate full stack developer</h2>
+<h2 align="left">A passionate full-stack developer</h2>
 <img align='right' alt='Coding' width='300' src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <ul>
   <li>
@@ -28,7 +28,7 @@
   </a>
 </div>
 <br>
-<h3>⚡ Stats ⚡</h3>
+<h3>⚡ Statistics ⚡</h3>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari" alt="alexlazellari">
 </div>

@@ -27,9 +27,9 @@
   </a>
 </div>
 
+<h3>Stats</h3>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari" alt="alexlazellari">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexlazellari&show_icons=true&locale=en" alt="alexlazellari" >
 </div>
 
 <h3 align="left">Connect with me:</h3>

@@ -6,8 +6,6 @@
 
 <h2 align="left">A passionate web developer</h2>
 
-<img align='right' alt='Coding' width='300' src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
 <ul>
   <li>
     🔭 I’m currently working on <a href="https://www.strath.ac.uk/">Digital Accessibility Compliance</a>

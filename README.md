@@ -26,8 +26,8 @@
 <h3 align="left">⚒️ Languages and Tools ⚒️</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,github,python,javascript,java"/><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,html,css,vscode,git,docker"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,reactjs,nestjs,nodejs,expressjs,mongodb,github,python,java"/><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mui,mysql,html,css,vscode,git,docker"/>
   </a>
 </div>
 

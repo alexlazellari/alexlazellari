@@ -33,13 +33,6 @@
 
 <br>
 
-<h3>⚡ Statistics ⚡</h3>
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexlazellari" alt="alexlazellari">
-</div>
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-lazellari/" target="blank">

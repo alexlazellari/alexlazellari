@@ -8,7 +8,7 @@
 
 <ul>
   <li>
-    🔭 I’m currently working on <a href="https://www.strath.ac.uk/">Digital Accessibility Compliance</a>
+    🔭 I’m currently working at <a href="https://www.strath.ac.uk/">University of Strathclyde</a>
   </li>
   <li>
     💬 Ask me about <strong>Web development</strong>

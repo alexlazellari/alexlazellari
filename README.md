@@ -17,12 +17,7 @@
     📫 How to reach me <a href="mailto:alex.lazellari@gmail.com">alex.lazellari12@gmail.com</a>
   </li>
 </ul>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexlazellari&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="alexlazellari">
-</p>
-
 <br>
-
 <h3 align="left">⚒️ Languages and Tools ⚒️</h3>
 <div align="center">
   <a href="https://skillicons.dev">
